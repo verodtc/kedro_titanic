@@ -1,0 +1,6 @@
+context_path: titanic_kedro.run.ProjectContext
+project_name: "titanic_kedro"
+project_version: "0.16.5"
+package_name: "titanic_kedro"
+hooks:
+  - titanic_kedro.hooks.project_hooks
